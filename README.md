@@ -9,7 +9,7 @@
 Faça o download da biblioteca:
 
 ~~~
-git clone https://github.com/iugu/iugu-php
+git clone https://github.com/hotelja/iugu-php
 ~~~
 
 Inclua a biblioteca em seu arquivo PHP:
@@ -21,8 +21,8 @@ require_once(".../iugu-php/lib/Iugu.php");
 ### Usando Composer
 
 ~~~
-$ composer require iugu/iugu
-Please provide a version constraint for the iugu/iugu requirement: 1.0.5
+$ composer require hotelja/iugu-php
+Please provide a version constraint for the hotelja/iugu-php requirement: 1.0.5
 ~~~
 
 O autoload do composer irá cuidar do resto.
